@@ -45,6 +45,6 @@ class Mark < Peer
   end
 
   def self.specialties_on?
-    false
+    true
   end
 end
